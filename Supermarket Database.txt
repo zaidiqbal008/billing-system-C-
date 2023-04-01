@@ -1,0 +1,6 @@
+ 1 Cookies 100 2
+ 2 Juice 120 3
+ 3 Chips 50 2
+ 4 Noodles 70 3
+ 5 Lolipop 20 0
+ 0 01 1.86473e-038 5.96935e-039
